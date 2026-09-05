@@ -4,7 +4,7 @@
 
 🔐 Interessado em Segurança da Informação e Cibersegurança
 
-📚 Construindo uma base sólida em tecnologia através da graduação, estudos autodidatas e documentação técnica
+📚 Construindo uma base sólida em tecnologia através da graduação, cursos complementares, estudos autodidatas e documentação técnica
 
 📍 Joinville - SC
 
@@ -12,17 +12,17 @@
 
 ## 🧭 Áreas de Interesse
 
-- Segurança da Informação
-- Redes de Computadores
-- Sistemas Operacionais (Windows e Linux)
-- Infraestrutura de TI
-- Programação Python para automação
+* Redes de Computadores
+* Sistemas Operacionais (Windows e Linux)
+* Infraestrutura de TI
+* Segurança da Informação
+* Programação Python para automação
 
 ---
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade na área de tecnologia para aplicar conhecimentos, adquirir experiência prática e desenvolver uma carreira sólida em infraestrutura e segurança da informação.
+Busco minha primeira oportunidade na área de tecnologia para aplicar conhecimentos, adquirir experiência prática e desenvolver uma carreira sólida em infraestrutura, redes e segurança da informação.
 
 ---
 
@@ -40,11 +40,11 @@ Este GitHub funciona como minha base pessoal de conhecimento, onde registro estu
 
 Neste perfil você encontrará:
 
-- Projetos práticos desenvolvidos durante meus estudos;
-- Documentação técnica produzida com minhas próprias palavras;
-- Registros da evolução do meu aprendizado;
-- Anotações sobre conceitos fundamentais de tecnologia;
-- Materiais relacionados à graduação, cursos complementares e estudos independentes.
+* Projetos práticos desenvolvidos durante meus estudos;
+* Documentação técnica produzida com minhas próprias palavras;
+* Registros da evolução do meu aprendizado;
+* Anotações sobre conceitos fundamentais de tecnologia;
+* Materiais relacionados à graduação, cursos complementares e estudos independentes.
 
 Meu objetivo é construir uma base de conhecimento organizada, revisável e continuamente aprimorada, acompanhando minha evolução profissional na área de Tecnologia da Informação.
 
@@ -52,4 +52,4 @@ Meu objetivo é construir uma base de conhecimento organizada, revisável e cont
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/davi-machado-ads45938b
+* LinkedIn: [www.linkedin.com/in/davi-machado-ads45938b](https://www.linkedin.com/in/davi-machado-ads45938b)
